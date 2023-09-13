@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - linkedin profile -- https://www.linkedin.com/in/theabeerrai/
 - Instagram  - https://www.instagram.com/theabeerrai/
+- Google Developer Students Chapter - https://gdsc.community.dev/u/m82hqw/#/about
 
 <!---
 abeerrai01/abeerrai01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
