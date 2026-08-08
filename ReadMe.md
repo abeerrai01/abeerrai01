@@ -127,7 +127,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering with an AI/ML spec
 <td width="35%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/abeerrai01/abeerrai01/main/assets/abeer-pixel-reveal.gif"
+  src="https://github.com/abeerrai01.png"
   width="230"
   alt="Abeer Rai"
 />
