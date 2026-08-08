@@ -52,10 +52,12 @@
   />
 </a>
 
-<img
-  src="https://komarev.com/ghpvc/?username=abeerrai01&label=Profile%20Views&color=198754&style=for-the-badge"
-  alt="Profile Views"
-/>
+<a href="https://github.com/abeerrai01">
+  <img
+    src="https://komarev.com/ghpvc/?username=abeerrai01&label=Profile%20Views&color=198754&style=for-the-badge"
+    alt="Profile Views"
+  />
+</a>
 
 <br><br>
 
